@@ -1,3 +1,0 @@
-module github.com/Danixdy/Taller_Paquetes
-
-go 1.25.1
